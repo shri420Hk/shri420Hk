@@ -7,10 +7,9 @@
 - 🧑‍🎓php
 - 🧑‍🎓MySQL
 - 🧑‍🎓Node.js
-- 🧑‍🎓Node.js
-- 🧑‍🎓react.js
 - 🧑‍🎓Python
 - 🧑‍🎓Machine Learning
+- 🧑‍🎓Artificial Intelligence
 - 🧑‍🎓Data structure
 - 🧑‍🎓C/C++ language
 - 🧑‍🎓Postman Student expert
