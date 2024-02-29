@@ -16,5 +16,4 @@
 - 🧑‍🎓Ethical Hacking
 - ☎️Contact me:9244553316
 - LinkedIn : https://www.linkedin.com/in/srikant-58b71a250
-- instgram : https://instagram.com/__shri_13_?igshid=NGExMmI2YTkyZg==
 - Gmail : shrikantgendle61@gmail.com
