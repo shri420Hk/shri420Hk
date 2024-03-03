@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @shri420Hk
 - 💻 Software Developer
+- 💻 Python Developer
 - 💻 Data Scientist
 - 🏫 SKILLS:
 - 🧑‍🎓Data structure and Algorithms
