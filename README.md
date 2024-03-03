@@ -1,17 +1,24 @@
 - 👋 Hi, I’m @shri420Hk
-- 💻 Web developer and designer
+- 💻 Software Developer
+- 💻 Data Scientist
 - 🏫 SKILLS:
+- 🧑‍🎓Data structure and Algorithms
+- 🧑‍🎓Machine Learning
+- 🧑‍🎓C/C++ and Python Programming language
+- 🧑‍🎓Database(MySQL, MongoDB)
+- 🧑‍🎓Big Data
+- 🧑‍🎓Data Analysis
+- 🧑‍🎓Pytorch
+- 🧑‍🎓Tensorflow
+- 🧑‍🎓Artificial Intelligence
+- 🧑‍🎓Natural Language Processing(NLP)
+- 🧑‍🎓Python Development
 - 🧑‍🎓HTML
 - 🧑‍🎓CSS
 - 🧑‍🎓JavaScript
 - 🧑‍🎓php
 - 🧑‍🎓MySQL
 - 🧑‍🎓Node.js
-- 🧑‍🎓Python
-- 🧑‍🎓Machine Learning
-- 🧑‍🎓Artificial Intelligence
-- 🧑‍🎓Data structure
-- 🧑‍🎓C/C++ language
 - 🧑‍🎓Postman Student expert
 - 🧑‍🎓Ethical Hacking
 - ☎️Contact me:9244553316
