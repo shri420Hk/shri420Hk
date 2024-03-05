@@ -13,7 +13,6 @@
 - 🧑‍🎓Tensorflow
 - 🧑‍🎓Artificial Intelligence
 - 🧑‍🎓Natural Language Processing(NLP)
-- 🧑‍🎓Python Development
 - 🧑‍🎓HTML
 - 🧑‍🎓CSS
 - 🧑‍🎓JavaScript
