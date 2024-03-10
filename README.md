@@ -24,3 +24,5 @@
 - ☎️Contact me:9244553316
 - LinkedIn : https://www.linkedin.com/in/srikant-58b71a250
 - Gmail : shrikantgendle61@gmail.com
+- leetcode : https://leetcode.com/shri420/
+- codingninjas : https://www.codingninjas.com/studio/profile/shri420
